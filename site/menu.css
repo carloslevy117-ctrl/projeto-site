@@ -1,12 +1,4 @@
 
-#aa{
-    position: relative;
-    left: 700px;
-    top: 200px;
-    border-radius: 15px;
-    /* border-inline-end-style: ; */
-}
-
 .menu-site {
     position: fixed;
     top: 0;
