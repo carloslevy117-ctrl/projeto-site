@@ -33,9 +33,7 @@
     color:blue;
 }
 
-p {
-    color: #bd2d2d;
-}
+
 
 header {
     text-align: center;
@@ -43,4 +41,13 @@ header {
 
 body {
     background-color: rgb(0, 252, 239);
+}
+
+.container {
+    display: flex;
+    
+}
+
+form {
+    
 }
