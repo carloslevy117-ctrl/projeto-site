@@ -41,7 +41,7 @@ header {
 
 body {
     background-color: black;
-    color: blanchedalmond;
+    color: rgb(240, 234, 234);
 }
 
 .container {
@@ -108,7 +108,7 @@ form input[type="submit"] {
   width: 100%;
   padding: 12px;
   background: #6a5acd; 
-  color: #161010;
+  color: #050505;
   border: none;
   border-radius: 8px;
   font-size: 16px;
